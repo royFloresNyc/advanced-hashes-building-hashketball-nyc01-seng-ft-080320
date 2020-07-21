@@ -1,5 +1,3 @@
-
-
 def game_hash
   result_hash = {
     :home => {
